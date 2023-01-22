@@ -50,7 +50,7 @@ button {
 }
 
 .habits {
-  margin-top: 65px;
+  margin-top: 60px;
   display: flex;
   flex-direction: column;
 
@@ -59,11 +59,12 @@ button {
 
 }
 
-.habit {
+.habits {
   width: 64px;
   height: 64px;
 
   font-size: 32px;
+
   display: flex;
   align-items: center;
   justify-content:center ;
